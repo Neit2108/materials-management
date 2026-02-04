@@ -1,0 +1,7 @@
+{
+  "name": "Hệ thống Quản lý Vật tư Điện Nước",
+  "description": "Phần mềm quản lý kho chuyên dụng cho vật tư thiết bị điện nước với đầy đủ chức năng quản trị, nhập hàng, bán hàng và thống kê chi tiết.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
